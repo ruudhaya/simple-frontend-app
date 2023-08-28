@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: .env.local
+  checksum: 0b61c65cee3487e04636083d5dff56e85c897ec2e876e2d0a6c8a6104b179b1c
 - filename: package-lock.json
   checksum: 5e3e9400eff4a290809c14e52c5699bef2577fd4a911eb351392c103afe4dd3f
 - filename: src/InputList.jsx
