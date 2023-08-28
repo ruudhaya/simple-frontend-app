@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 5e3e9400eff4a290809c14e52c5699bef2577fd4a911eb351392c103afe4dd3f
+- filename: src/InputList.jsx
+  checksum: 694b6ca64b75549697e646b8f840477356e4ff72e345e6e6c19bbcd8226a660c
+version: "1.0"
